@@ -1,0 +1,3 @@
+D:\MOU\Backend\NodeJs-Ecommerce-VS\NodeJs-Ecommerce-VS\obj\Debug\NodeJs-Ecommerce-VS.njsproj.AssemblyReference.cache
+D:\MOU\Backend\NodeJs-Ecommerce-VS\NodeJs-Ecommerce-VS\obj\Debug\NodeJs-Ecommerce-VS.njsproj.CoreCompileInputs.cache
+D:\MOU\Backend\NodeJs-Ecommerce-VS\NodeJs-Ecommerce-VS\bin\Microsoft.NodejsTools.WebRole.dll
